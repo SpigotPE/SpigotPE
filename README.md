@@ -14,9 +14,12 @@ Software per creazione di server per MineCraft Pocket Edition. Website: Spigotpe
 - [ ] Struttura plugin.
 - [ ] Generazione terreno.
 - [ ] Generazione avanzata terreno.
+- [ ] Generazione terreno nether.
 - [ ] Pozioni.
+- [ ] Pioggia.
 - [ ] Multi lingua.
 - [ ] Implementazione sistemi con Redstone.
 - [ ] Enchant.
 - [ ] Implementazione Mob.
 - [ ] Gestione avanzata Mob.
+- [ ] Generazione strutture.
